@@ -7,6 +7,6 @@
 
 ![image](https://github.com/nakooro/takeout-inside-files/blob/main/tutorial-2.jpg)
 
-輸出檔名為 `資料夾名稱-原始檔案名稱`
+`output` 資料夾內檔名格式為 `資料夾名稱-原始檔案名稱`
 
 ![image](https://github.com/nakooro/takeout-inside-files/blob/main/tutorial-3.jpg)
